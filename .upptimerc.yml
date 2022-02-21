@@ -5,6 +5,8 @@ repo: testnet_status
 sites:
   - name: Messier.Art Testnet
     url: https://mtestnet.messier.art/
+    headers:
+      - "Authorization: Basic $BASIC_AUTH"
   - name: Testnet Indexer
     url: https://dev-server.messier.art/api/indexer_health
   - name: Testnet API Server
