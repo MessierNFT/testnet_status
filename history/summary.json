@@ -4,19 +4,19 @@
     "url": "https://mtestnet.messier.art/",
     "icon": "https://favicons.githubusercontent.com/mtestnet.messier.art",
     "slug": "messier-art-testnet",
-    "status": "down",
-    "uptime": "4.11%",
-    "uptimeDay": "4.11%",
-    "uptimeWeek": "4.11%",
-    "uptimeMonth": "4.11%",
-    "uptimeYear": "4.11%",
-    "time": 532,
-    "timeDay": 532,
-    "timeWeek": 532,
-    "timeMonth": 532,
-    "timeYear": 532,
+    "status": "up",
+    "uptime": "1.15%",
+    "uptimeDay": "1.15%",
+    "uptimeWeek": "1.15%",
+    "uptimeMonth": "1.15%",
+    "uptimeYear": "1.15%",
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2022-02-21": 0
+      "2022-02-21": 7
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 880,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "time": 161,
+    "timeDay": 161,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 807,
-    "timeWeek": 807,
-    "timeMonth": 807,
-    "timeYear": 807,
+    "time": 570,
+    "timeDay": 570,
+    "timeWeek": 570,
+    "timeMonth": 570,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   }
 ]
