@@ -1,5 +1,5 @@
 # Change these first
-owner: Messier.Art Testnet
+owner: 0xnulll
 repo: testnet_status
 
 sites:
@@ -7,18 +7,19 @@ sites:
     url: https://mtestnet.messier.art/
     headers:
       - "Authorization: Basic $BASIC_AUTH"
+    icon: https://mtestnet.messier.art/darkMobile.png
   - name: Testnet Indexer
     url: https://dev-server.messier.art/api/indexer_health
+    icon: https://mtestnet.messier.art/darkMobile.png
   - name: Testnet API Server
     url: https://dev-server.messier.art/health
+    icon: https://mtestnet.messier.art/darkMobile.png
   - name: Messier.Art IPFS
     url: https://ipfs.messier.art/ipfs/Qmf46hrJfcA8TvEMh6VNHM2G4JxsykxfYwcfhRr5ZFT12E
+    icon: https://mtestnet.messier.art/darkMobile.png
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: https://mtestnet-status.messier.art/
-  # baseUrl: /your-repo-name
+  theme: light
   logoUrl: https://mtestnet.messier.art/darkMobile.png
   name: Messier.Art Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -29,5 +30,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
+assignees:
+  - 0xnulll
+  
 # See https://upptime.js.org/docs/configuration
