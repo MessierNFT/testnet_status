@@ -17,6 +17,9 @@ sites:
   - name: Messier.Art IPFS
     url: https://ipfs.messier.art/ipfs/Qmf46hrJfcA8TvEMh6VNHM2G4JxsykxfYwcfhRr5ZFT12E
     icon: https://mtestnet.messier.art/darkMobile.png
+  - name: Messier.Art CDN
+    url: https://assets.messier.art/
+    icon: https://mtestnet.messier.art/darkMobile.png
 
 status-website:
   theme: light
