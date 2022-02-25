@@ -58,7 +58,7 @@
     "url": "https://ipfs.messier.art/ipfs/Qmf46hrJfcA8TvEMh6VNHM2G4JxsykxfYwcfhRr5ZFT12E",
     "icon": "https://mtestnet.messier.art/darkMobile.png",
     "slug": "messier-art-ipfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1556,
     "timeMonth": 1556,
     "timeYear": 1556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "Messier.Art CDN",
@@ -88,7 +90,7 @@
     "timeMonth": 528,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2022-02-25": 81,
+      "2022-02-25": 488,
       "2022-02-24": 1440,
       "2022-02-23": 459
     }
