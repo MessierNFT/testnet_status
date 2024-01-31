@@ -5,18 +5,19 @@
     "icon": "https://mtestnet.messier.art/darkMobile.png",
     "slug": "messier-art",
     "status": "down",
-    "uptime": "49.77%",
+    "uptime": "49.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.66%",
-    "time": 601,
+    "uptimeYear": "2.39%",
+    "time": 600,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 546,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-01-30": 75,
+      "2024-01-31": 76,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -381,7 +382,7 @@
     "icon": "https://mtestnet.messier.art/darkMobile.png",
     "slug": "indexer",
     "status": "down",
-    "uptime": "11.29%",
+    "uptime": "11.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -392,7 +393,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 75,
+      "2024-01-31": 76,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -755,8 +757,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   },
   {
@@ -765,7 +766,7 @@
     "icon": "https://mtestnet.messier.art/darkMobile.png",
     "slug": "api-server",
     "status": "down",
-    "uptime": "35.90%",
+    "uptime": "35.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -776,7 +777,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-30": 75,
+      "2024-01-31": 76,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -1139,8 +1141,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   },
   {
@@ -1149,18 +1150,19 @@
     "icon": "https://mtestnet.messier.art/darkMobile.png",
     "slug": "messier-art-ipfs",
     "status": "down",
-    "uptime": "49.77%",
+    "uptime": "49.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.66%",
-    "time": 1276,
+    "uptimeYear": "2.39%",
+    "time": 1277,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1206,
+    "timeYear": 1153,
     "dailyMinutesDown": {
-      "2024-01-30": 75,
+      "2024-01-31": 76,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -1534,9 +1536,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 720,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-01-30": 75,
+      "2024-01-31": 76,
+      "2024-01-30": 1440,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
@@ -1899,8 +1902,7 @@
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
-      "2023-02-01": 1440,
-      "2023-01-31": 1440
+      "2023-02-01": 1440
     }
   }
 ]
